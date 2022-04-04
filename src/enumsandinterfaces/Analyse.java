@@ -16,6 +16,7 @@ public class Analyse {
         @Override
         protected Label getLabel() {
             return Label.SPAM;
+
         }
 
         @Override
